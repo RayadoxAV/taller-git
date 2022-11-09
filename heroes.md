@@ -5,3 +5,5 @@
 * Daredevil
 * Aquaman
 * Mujer Maravilla
+* Ironman
+* Spider-man
